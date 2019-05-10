@@ -43,7 +43,7 @@ for office in offices[1:]:
         city[Med_office_city] = city[Med_office_city]+1
 
 #print(city)
-for i in city:
-    if i in population:
-        city[i] = city[i] / population[i]
-print(city)
+#for i in city:
+    #if i in population:
+    #    city[i] = city[i] / population[i]
+#print(city)
